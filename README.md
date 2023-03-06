@@ -1,5 +1,7 @@
 ## Hola, te saludo... mi nombre es Venecia Difilippo 🙋🏻‍♀️
 
+Vivo en Argentina, nací el 15 de agosto de 1991, tengo 2 hermosos hijos 👦🏻👧🏻.
+
 Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO🦄 (individuo altamente raro y difícil de encontrar con habilidades para diseñar y programar), para cumplir con esta meta comencé el bootcamp Undefined Shell para ser programadora full-stack.
 
 ### ✨Aquí te muestro 5 comandos que aprendimos en el bootcamp
@@ -11,13 +13,18 @@ Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO�
 |  mkdir| Crea una nuevo subdirectorio o carpeta   |
 |  clear| Limpia la terminal                       |
 
-### ✨ 2 Alias para nuestro trabajo
+### ✨ Algunos alias que nos ayudan a acelerar nuestro trabajo
 
 ```bash
 alias findd='ls~/grep'
 ```
-* Sirve para filtrar carpetas dando una palabra.
+* Sirve para **filtrar carpetas** dando una palabra.
 ```bash
 alias cl='clear'
 ```
 * Abreviación del comando **clear**.
+
+```bash
+alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
+* Lista los **10 alias** más utilizados en nuestra terminal.
