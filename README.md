@@ -11,4 +11,8 @@ Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO�
 |  mkdir| Crea una nuevo subdirectorio o carpeta   |
 |  clear| Limpia la terminal                       |
 
-### ✨ Estos sn 2 alias
+### ✨ 2 Alias
+
+```bash
+dsfsdfsdfsdfsd
+```
