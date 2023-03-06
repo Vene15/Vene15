@@ -11,8 +11,13 @@ Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO�
 |  mkdir| Crea una nuevo subdirectorio o carpeta   |
 |  clear| Limpia la terminal                       |
 
-### ✨ 2 Alias
+### ✨ 2 Alias para nuestro trabajo
 
 ```bash
-dsfsdfsdfsdfsd
+alias findd = "ls~/grep"
 ```
+* Sirve para filtrar carpetas dando una palabra.
+```bash
+alias cl='clear'
+```
+* Abreviación del comando **clear**.
