@@ -22,7 +22,7 @@ alias findd='ls~/grep'
 ```bash
 alias cl='clear'
 ```
-* Abreviación del comando **clear**.
+* Abreviatura del comando **clear**.
 
 ```bash
 alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
