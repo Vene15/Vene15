@@ -1,4 +1,4 @@
-## Hola, te saludo... mi nombre es Venecia Difilippo
+## Hola, te saludo... mi nombre es Venecia Difilippo 🙋🏻‍♀️
 
 Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO🦄 (individuo altamente raro y difícil de encontrar con habilidades para diseñar y programar), para cumplir con esta meta comencé el bootcamp Undefined Shell para ser programadora full-stack.
 
