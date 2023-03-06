@@ -13,7 +13,7 @@ Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO�
 |  mkdir| Crea una nuevo subdirectorio o carpeta   |
 |  clear| Limpia la terminal                       |
 
-### ✨ Algunos alias que nos ayudan a acelerar nuestro trabajo
+### ✨ Algunos alias que hemos visto
 
 ```bash
 alias findd='ls~/grep'
