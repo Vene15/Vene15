@@ -27,4 +27,4 @@ alias cl='clear'
 ```bash
 alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
 ```
-* Lista los **10 alias** más utilizados en nuestra terminal.
+* Muestra los **10 alias** más utilizados en nuestra terminal.
