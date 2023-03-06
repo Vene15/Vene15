@@ -14,7 +14,7 @@ Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO�
 ### ✨ 2 Alias para nuestro trabajo
 
 ```bash
-alias findd = "ls~/grep"
+alias findd='ls~/grep'
 ```
 * Sirve para filtrar carpetas dando una palabra.
 ```bash
