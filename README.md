@@ -2,7 +2,7 @@
 
 Vivo en Argentina, nací el 15 de agosto de 1991, tengo 2 hermosos hijos 👦🏻👧🏻.
 
-Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO🦄 (individuo altamente raro y difícil de encontrar con habilidades para diseñar y programar), para cumplir con esta meta comencé el bootcamp Undefined Shell para ser programadora full-stack.
+Soy diseñadora gráfica y tengo el propósito de convertirme en un UNICORNIO🦄 (individuo altamente raro y difícil de encontrar con habilidades para diseñar y programar), para cumplir con esta meta comencé el bootcamp Undefined Academy para ser programadora full-stack.
 
 ### ✨Aquí te muestro 5 comandos que aprendimos en el bootcamp
 |COMANDO|              DESCRIPCIÓN                 |
